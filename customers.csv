@@ -1,0 +1,5 @@
+customer_id,first_name,last_name,email,phone,last_login
+1023,Alice,Nguyen,alice.nguyen@example.com,+15551234567,2024-12-10
+1045,Ravi,Patel,ravi.patel@example.com,+15557654321,2025-01-20
+1078,Lena,Murphy,lena.murphy@example.com,+15559876543,2025-02-14
+1099,Diego,González,diego.gonzalez@example.com,+15553456789,2025-03-22
