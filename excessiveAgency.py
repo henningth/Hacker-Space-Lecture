@@ -56,7 +56,7 @@ agent = create_agent(
     system_prompt=system_prompt # try other variations also
 )
 
-malicious_site = "https://raw.githubusercontent.com/henningth/Hacker-Space-Lecture/refs/heads/main/ssrf.html"
+malicious_site = "https://raw.githubusercontent.com/henningth/Hacker-Space-Lecture/refs/heads/main/malsite.html"
 
 QUERY = f"Print exactly the content of this site {malicious_site}"
 
